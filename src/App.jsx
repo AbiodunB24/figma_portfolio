@@ -1,6 +1,8 @@
 import './App.css'
 import About from './About/About'
 import Funfact from './Funfact/Funfact'
+import Exclusive from './Exclusive/Exclusive'
+import Touch from './Touch/Touch'
 
 function App() {
 
@@ -8,6 +10,8 @@ function App() {
     <div>
       <About/>
       <Funfact/>
+      <Exclusive/>
+      <Touch/>
     </div>
   )
 }
